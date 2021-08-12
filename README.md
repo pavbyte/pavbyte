@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Adcratic | Creative Agency
+- 🔭 I’m currently working on Adcratic Studios Pvt. Ltd.
 - 🌱 I’m currently learning web application security
 - 👯 I’m looking to collaborate on platform like project
 - 🤔 I’m looking for help with building a company 
